@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="657.0" prefWidth="183.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.pj2_2023.RedController">
+   <children>
+      <ScrollPane fx:id="scrollPane" layoutX="5.0" layoutY="14.0" prefHeight="614.0" prefWidth="223.0" />
+   </children>
+</AnchorPane>

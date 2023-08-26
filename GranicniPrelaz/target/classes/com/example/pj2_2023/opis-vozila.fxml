@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="666.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.pj2_2023.OpisVozilaController">
+   <children>
+      <Label fx:id="idLabel" layoutX="32.0" layoutY="150.0" prefHeight="510.0" prefWidth="482.0" text="Label" />
+      <VBox fx:id="vbox" layoutX="80.0" layoutY="27.0" prefHeight="135.0" prefWidth="134.0" />
+   </children>
+</AnchorPane>
